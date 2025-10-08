@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99841809657",
+    "project_id": "swiftcare-67e76",
+    "storage_bucket": "swiftcare-67e76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99841809657:android:82b5bc8df7bb657ffbd628",
+        "android_client_info": {
+          "package_name": "com.example.swiftcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNILAzt_KnnXDVg4qp4Yw6Ar-S6DbdFk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
